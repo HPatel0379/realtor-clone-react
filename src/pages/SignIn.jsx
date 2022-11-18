@@ -38,7 +38,7 @@ const [formData, setFormData] = useState({
             <input 
               type="email" 
               id="email" 
-              placeholder= "Email Address"
+              placeholder= "Email address"
               value={email}
               onChange={onChange}
               className="mb-6 w-full px-4 py-2 text-xl text-gray-700 bg-white border-gray-300 rounded" 
